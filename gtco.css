@@ -1,0 +1,27 @@
+.box1{
+    padding: 110px;
+    /* border: 3px solid red; */
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: rgb(225,66,0);
+}
+.box2{
+    padding: 30px;
+    /* border: 2px solid black; */
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    background-color: rgb(255,255,255);
+    position: relative;bottom: 70px;left: 50px;
+    /* margin: 20px, 0, 0, 30px ; */
+}
+.text{
+    font-family: monospace;
+    color: #fff;
+    font-size: 75px;
+    font-weight: bolder;
+    position: relative;right: 55px;bottom: 10px;
+    margin: auto;
+}
